@@ -1,0 +1,17 @@
+{
+  "name": "global-agent-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/viceice/global-agent-test.git",
+  "author": "Michael Kriese <michael.kriese@visualon.de>",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "global-agent": "2.1.12",
+    "got": "11.5.0"
+  }
+}
